@@ -1,1 +1,1 @@
-# dice-simulator
+# dice-simulator using graphics and sound
